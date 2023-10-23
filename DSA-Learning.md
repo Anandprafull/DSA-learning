@@ -1,6 +1,6 @@
 # 🚀 90-Day DSA Learning Plan
 
-Welcome to your 90-day Data Structures and Algorithms (DSA) learning journey. This plan is designed to help you master DSA with a focus on Java. Adjust the schedule to your pace and mark tasks as you complete them.
+Welcome to my 90-day Data Structures and Algorithms (DSA) learning journey. This plan is designed to help you master DSA with a focus on Java. Adjust the schedule to your pace and mark tasks as you complete them.
 
 ## Table of Contents
 
@@ -89,4 +89,4 @@ Welcome to your 90-day Data Structures and Algorithms (DSA) learning journey. Th
 
 🎉 Congratulations on completing your 90-day DSA learning plan. You've made great progress! As you reflect on your journey and set future learning goals, remember that regular practice and problem-solving are the keys to mastering Data Structures and Algorithms using Java. Good luck with your continued learning!
 
-![Celebration Image](https://example.com/celebration.png)
+![Celebration Image]([https://example.com/celebration.png](https://www.freepik.com/free-vector/men-woman-dancing-party_4945045.htm#query=celebration%20gif&position=3&from_view=keyword&track=ais)https://www.freepik.com/free-vector/men-woman-dancing-party_4945045.htm#query=celebration%20gif&position=3&from_view=keyword&track=ais)
